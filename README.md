@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on frontend dev projects
 - 📫 How to reach me... email: tomiaiyeniko@gmail.com
+- 🕸️ Portfolio: https://tomipter.com
 
 <!---
 Tomi-pter/Tomi-pter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
